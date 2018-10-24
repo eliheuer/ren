@@ -1,12 +1,9 @@
 # Ren
 
 
-
-
-
 # Specimen
 
-![basic specimen](https://github.com/eliheuer/ren/docs/images/basic-specimen.gif)
+![basic specimen](https://github.com/eliheuer/ren/blob/master/docs/images/basic-specimen.gif)
 
 # License
 
