@@ -2,7 +2,8 @@
 .appVersion = "1172";
 DisplayStrings = (
 R,
-n
+n,
+"-"
 );
 date = "2018-10-24 03:37:09 +0000";
 designer = foo;
@@ -4745,6 +4746,73 @@ width = 538;
 );
 note = uni007A;
 unicode = 007A;
+},
+{
+glyphname = hyphen;
+lastChange = "2018-10-26 00:14:03 +0000";
+layers = (
+{
+layerId = "F6752803-E9E3-41A6-B92A-1FAB6ACE0E29";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 280 LINE",
+"410 280 LINE",
+"410 370 LINE",
+"30 370 LINE"
+);
+}
+);
+width = 440;
+},
+{
+layerId = "B4B9BE83-58FC-4244-9D0D-7F6B370E71EE";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 210 LINE",
+"410 210 LINE",
+"410 440 LINE",
+"30 440 LINE"
+);
+}
+);
+width = 440;
+}
+);
+unicode = 002D;
+},
+{
+glyphname = endash;
+lastChange = "2018-10-26 00:13:24 +0000";
+layers = (
+{
+layerId = "F6752803-E9E3-41A6-B92A-1FAB6ACE0E29";
+width = 600;
+},
+{
+layerId = "B4B9BE83-58FC-4244-9D0D-7F6B370E71EE";
+width = 600;
+}
+);
+unicode = 2013;
+},
+{
+glyphname = emdash;
+lastChange = "2018-10-26 00:13:24 +0000";
+layers = (
+{
+layerId = "F6752803-E9E3-41A6-B92A-1FAB6ACE0E29";
+width = 600;
+},
+{
+layerId = "B4B9BE83-58FC-4244-9D0D-7F6B370E71EE";
+width = 600;
+}
+);
+unicode = 2014;
 },
 {
 glyphname = space;
